@@ -8,6 +8,7 @@ cloud. These dongles can be replaced by this project to control your device
 in your own cloud.
 
 This project is inspired by https://github.com/dudanov/iot-uni-dongle
+
 As there are no KiCad project files available, I had to rebuild it from scratch.
 
 Other similar projects are:
